@@ -1,0 +1,26 @@
+
+Scegliere cosa guardare su Netflix
+Che barba, che noia, che noia, che barba!
+Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è difficile mettere d’accordo i gusti di tutti, poi dipende anche in base al tempo (o al sonno) che abbiamo. Delle volte si pensa di vedere quel bel film che ci hanno consigliato, mentre altre volte si viene risucchiati da quella serie tv che ci tiene incollati allo schermo. Che senso di vuoto quando poi finisce! 
+
+  
+1a sono stanco
+1b non sono stanco
+2 prendo il telecomando
+3 accendo la tv
+4 apro netflix
+5 guardo un film
+6a mi hanno consigliato un film
+    7 guardo quel film
+    8a mi sta piacendo
+        9 lo finisco
+    8b non mi sta piacendo
+6b guardo una serie
+    9 scelgo la serie
+    10 guardo un episodio
+    11a la  serie ci piace
+        12a se è finita:
+            13 1
+        12b se non è finita:
+            10
+    11B la serie non ci piace
